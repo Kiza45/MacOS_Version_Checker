@@ -1,5 +1,5 @@
 # MacOS_Version_Checker
 
-#Simple bash script that prints the latest version of MacOS avaialble. Useful for window suser who support Mac Environments and need to make sure MacBooks are on the lastest OS wehn bing deployed.
+Simple bash script that prints the latest version of MacOS avaialble. Useful for window suser who support Mac Environments and need to make sure MacBooks are on the lastest OS wehn bing deployed.
 
-#Advisable to create a batch file and use Task Scheduler on Windows to trigger the script at log on of any user, to check at the start of the day.
+Advisable to create a batch file and use Task Scheduler on Windows to trigger the script at log on of any user, to check at the start of the day.
